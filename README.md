@@ -11,7 +11,7 @@
 
 1. Выполнить команды:
    ```bash
-   npm install && composer install
+   npm install && npm run build && composer install
     ```
 2. Скопировать файл `.env.example` в `.env`:
    ```bash
